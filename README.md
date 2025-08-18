@@ -29,17 +29,17 @@ This project was built step by step, improving on both **functionality** and **c
 
 ### 📌 Commit History Highlights  
 
-1. **Create Todo App UI** – Initial UI setup (June 2, 2025)  
-2. **Polish UI with CSS** – Enhanced Todo interface (June 11, 2025)  
-3. **Interactive Add & Delete** – Basic functionality implemented (June 14, 2025)  
-4. **Fix bugs** – Smoothed user experience (June 14, 2025)  
-5. **Add React Icons** – Polished UI with icons (June 16, 2025)  
-6. **Use Forms** – Added controlled inputs (June 16, 2025)  
-7. **useRef replaces useState** – Optimized state handling (June 22, 2025)  
-8. **Functional updates on Todo** – More efficient updates (June 22, 2025)  
-9. **Simplify with Context API** – Cleaner state management (June 28, 2025)  
-10. **Remove icons for refinement** – Simplified UI (July 29, 2025)  
-11. **useReducer for power** – Structured and scalable state management (July 30, 2025)  
+1. **Create Todo App UI** – Initial UI setup  
+2. **Polish UI with CSS** – Enhanced Todo interface   
+3. **Interactive Add & Delete** – Basic functionality implemented   
+4. **Fix bugs** – Smoothed user experience   
+5. **Add React Icons** – Polished UI with icons   
+6. **Use Forms** – Added controlled inputs 
+7. **useRef replaces useState** – Optimized state handling   
+8. **Functional updates on Todo** – More efficient updates   
+9. **Simplify with Context API** – Cleaner state management  
+10. **Remove icons for refinement** – Simplified UI 
+11. **useReducer for power** – Structured and scalable state management  
 
 ---  
 
