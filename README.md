@@ -57,7 +57,9 @@ This project served as a **React learning path**, covering:
 
 ## 📸 Preview  
 
-(Add a screenshot or GIF of your Todo app here)  
+<img width="957" height="866" alt="Screenshot 2025-08-18 190044" src="https://github.com/user-attachments/assets/f5509d85-2007-4b31-93f6-5db15b16f031" />
+<img width="952" height="871" alt="Screenshot 2025-08-18 185958" src="https://github.com/user-attachments/assets/5ff006b9-9275-4bb3-9218-6791b62ebc77" />
+<img width="956" height="867" alt="Screenshot 2025-08-18 190028" src="https://github.com/user-attachments/assets/b0ff86da-3c54-4c81-99a2-7862855a0c23" />
 
 ---   
 
