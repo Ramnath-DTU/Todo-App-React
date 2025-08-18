@@ -63,12 +63,6 @@ This project served as a **React learning path**, covering:
 
 ---   
 
-## 🤝 Contributing  
-
-We welcome contributions! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
-
----  
-
 ## 👨‍💻 Author  
 
 **Ramnath**  
