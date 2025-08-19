@@ -57,9 +57,9 @@ This project served as a **React learning path**, covering:
 
 ## 📸 Preview  
 
-<img width="957" height="866" alt="Screenshot 2025-08-18 190044" src="https://github.com/user-attachments/assets/f5509d85-2007-4b31-93f6-5db15b16f031" />
-<img width="952" height="871" alt="Screenshot 2025-08-18 185958" src="https://github.com/user-attachments/assets/5ff006b9-9275-4bb3-9218-6791b62ebc77" />
-<img width="956" height="867" alt="Screenshot 2025-08-18 190028" src="https://github.com/user-attachments/assets/b0ff86da-3c54-4c81-99a2-7862855a0c23" />
+<img width="400" height="366" alt="1" src="https://github.com/user-attachments/assets/aa9578e5-c554-4cec-b414-0fbb197483b4" />
+<img width="400" height="363" alt="2" src="https://github.com/user-attachments/assets/feb7edcf-eafa-4c08-99df-17faab261ada" />
+<img width="400" height="362" alt="3" src="https://github.com/user-attachments/assets/f229d1eb-2bd2-46ce-8aa4-43a0fbf563e0" />
 
 ---   
 
