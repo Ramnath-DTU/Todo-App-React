@@ -35,7 +35,7 @@ This project was built step by step, improving on both **functionality** and **c
 4. **Fix bugs** – Smoothed user experience   
 5. **Add React Icons** – Polished UI with icons   
 6. **Use Forms** – Added controlled inputs 
-7. **useRef replaces useState** – Optimized state handling   
+7. **useReducer replaces useState** – Optimized state handling   
 8. **Functional updates on Todo** – More efficient updates   
 9. **Simplify with Context API** – Cleaner state management  
 10. **Remove icons for refinement** – Simplified UI 
